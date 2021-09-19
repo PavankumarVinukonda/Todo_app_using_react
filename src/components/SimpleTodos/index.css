@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.ul-Container {
+  list-style: none;
+  background-color: white;
+  background-size: cover;
+  padding: 20px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  color: #ff8542;
+  font-family: roboto;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
